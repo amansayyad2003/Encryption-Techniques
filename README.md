@@ -11,10 +11,10 @@
 
 2. Vernam Cipher
 
-    pi = ith binary digit of plaintext
-    ki = ith binary digit of key
-    ci = ith binary digit of ciphertext
-    ⊕ = exclusive@or (XOR) operation
+ pi = ith binary digit of plaintext
+ ki = ith binary digit of key
+ ci = ith binary digit of ciphertext
+ ⊕ = exclusive@or (XOR) operation
 
 - Encryption:
     ```
@@ -30,12 +30,10 @@
 
 - Compilation
 ```
-    bash 
     g++ main.cpp encryption_algorithms.cpp -o encrypt_decrypt
 ```
 
 - Execution
 ```
-    bash
     ./encrypt_decrypt
 ```
