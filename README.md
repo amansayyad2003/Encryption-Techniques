@@ -1,7 +1,7 @@
 # Classical Encryption technique
 
 ## Techniques
-1. Polyalphabetic Cipher 
+1. Polyalphabetic Cipher \
    Ex: 
    ```
     key: deceptivedeceptivedeceptive
@@ -11,10 +11,10 @@
 
 2. Vernam Cipher
 
- pi = ith binary digit of plaintext
- ki = ith binary digit of key
- ci = ith binary digit of ciphertext
- ⊕ = exclusive@or (XOR) operation
+ pi = ith binary digit of plaintext \
+ ki = ith binary digit of key \
+ ci = ith binary digit of ciphertext \
+ ⊕ = exclusive@or (XOR) operation \
 
 - Encryption:
     ```
